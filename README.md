@@ -136,7 +136,7 @@ Detailed description of how time is managed in the system.
 ![Use Case Diagram](https://link-to-your-image.png)
 
 ## Flow Diagram
-![Flow Diagram](https://link-to-your-image.png)
+![Flow Diagram](Flowcharts/Flowchart%20-%20Managetime.png)
 
 ## Sequence Diagram
 ![Sequence Diagram](https://link-to-your-image.png)
