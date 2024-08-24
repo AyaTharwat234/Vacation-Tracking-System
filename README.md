@@ -103,8 +103,25 @@ Non-functional requirements describe the system's operational attributes and con
 - **Integration with Existing Intranet Portal**: The system must integrate seamlessly with the current intranet portal.
 - **Communication with Old HR Systems**: The system must be capable of communicating with legacy HR systems to ensure continuity and data integrity.
   
-## Use Cases
-Detailed use cases.
+## 5. Use Cases
+
+### 5.1 Use Case Diagram
+- A brief description or image related to the Use Case Diagram can be added here.
+
+### 5.2 Manage Time Use Case
+This section contains detailed use cases related to managing time within the system.
+
+#### 5.2.1 Create Request
+- Employees can create a request for time off (vacation, sick leave, etc.).
+- The request will be sent to their manager for approval.
+  
+#### 5.2.2 Withdraw Or Edit Pending Request
+- Employees can withdraw or edit a request that has not yet been approved.
+- Once withdrawn, the request will no longer be considered by the manager.
+
+#### 5.2.3 Cancel Approved Request
+- Employees can cancel a previously approved request if necessary.
+- Cancellation will notify the manager and adjust the leave balance accordingly.
 
 ## Use Case Actors
 Description of the actors involved.
