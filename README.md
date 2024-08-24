@@ -69,6 +69,12 @@ This section contains detailed use cases related to managing time within the sys
 ## Use Case Actors
 Description of the actors involved.
 
+- **Employee:** The main user of this system, managing their vacation time.
+- **Manager:** An employee who has all the abilities and goals of a regular employee, but with the added responsibility of approving vacation requests for immediate subordinates. A manager may award subordinates comp time, subject to certain limits set in the system.
+- **Clerk (HR Member):** A member of the HR department who has sufficient rights to view employees’ personal data and is responsible for ensuring that employees’ information in all HR systems is up to date and correct. An HR clerk can add or remove nearly any record in the system. In real life, HR clerks may or may not be employees; however, if they are employees, they use two separate login IDs to manage these two different roles.
+- **System Admin:** Responsible for the smooth running of the system’s technical resources (e.g., Web server, database) and for collecting and archiving all log files.
+
+
 ## Use Case: Manage Time
 Detailed description of how time is managed in the system.
 
