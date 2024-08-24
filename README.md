@@ -4,13 +4,13 @@
 A Vacation Tracking System (VTS) will provide individual employees with the capability to manage their own vacation time, sick leave, and personal time off, without having to be an expert in company policy or the local facility’s leave policies.
 
 ## Index
-1. [Requirements](#requirements)
-   - [Functional Requirements](#functional-requirements)
-   - [Non-Functional Requirements](#non-functional-requirements)
-2. [Use Cases](#use-cases)
-3. [Use Case Actors](#use-case-actors)
-4. [Use Case: Manage Time](#use-case-manage-time)
-5. [Database Diagram](#database-diagram)
+1. <a href="#requirements">Requirements</a>
+   - <a href="#functional-requirements">Functional Requirements</a>
+   - <a href="#non-functional-requirements">Non-Functional Requirements</a>
+2. <a href="#use-cases">Use Cases</a>
+3. <a href="#use-case-actors">Use Case Actors</a>
+4. <a href="#use-case-manage-time">Use Case: Manage Time</a>
+5. <a href="#database-diagram">Database Diagram</a>
 6. [Use Case Diagram](#use-case-diagram)
 7. [Flow Diagram](#flow-diagram)
 8. [Sequence Diagram](#sequence-diagram)
